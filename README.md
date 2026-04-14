@@ -19,7 +19,7 @@ A expense tracker project created as part for ipr project. This webiste helps bu
 
 ## 🛠️ Built With
 
-- **HTML5**
-- **CSS3**
-- **JavaScript **
+- **HTML**
+- **CSS**
+- **JavaScript**
 
