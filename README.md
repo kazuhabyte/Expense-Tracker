@@ -21,5 +21,5 @@ A expense tracker project created as part for ipr project. This website helps bu
 
 - **HTML**
 - **CSS**
-- **JavaScript**
+- **JavaScript.**
 
